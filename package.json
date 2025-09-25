@@ -12,6 +12,8 @@
   "dependencies": {
     "bootstrap": "^5.3.8",
     "react": "^19.1.1",
+    "react-bootstrap": "^2.10.10",
+    "react-bootstrap-button": "^1.0.3",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.9.1"
   },
